@@ -1,5 +1,5 @@
 [package]
-name = "ordinals-pallet"
+name = "pallet-ordinals"
 description = "Inscribe Ordinals on Substrate"
 version = "0.0.1"
 publish = false
